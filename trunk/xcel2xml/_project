@@ -1,0 +1,9 @@
+[default]
+projectname = web2py,python,
+
+[acp]
+.html = html.acp,web2py_html.acp,
+
+[highlight]
+.html = web2pyview
+
